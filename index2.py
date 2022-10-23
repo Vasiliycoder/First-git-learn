@@ -1,6 +1,6 @@
-name = "Vasiliy"
+name = "Alex"
 
-namber = 30
+namber = 51
 
 name2 = input( "Введите своё имя: " )
 age = input( "Введите свой возраст: " )
